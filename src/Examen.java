@@ -2,9 +2,6 @@ import javax.swing.UIManager.LookAndFeelInfo;
 import javax.swing.UIManager;
 import controller.Controller;
 
-/**
- * @author Daniel Estrada
- */
 public class Examen {
 
     public static void main(String args[]) {
